@@ -2,6 +2,18 @@
 
 A flexible and customizable modal stack management library for React applications. Modal Stack allows you to create layered modals with smooth animations and various preset styles.
 
+## preview
+
+### default preset
+![Honeycam 2025-12-28 13-23-52](https://github.com/user-attachments/assets/e1cf2c64-10c3-4d50-bebf-771bf6154ad1)
+
+### custom layout style (tailwind, framer-motion)
+![Honeycam 2025-12-28 13-24-38](https://github.com/user-attachments/assets/b7573c8b-2ea5-41a4-8ad5-4bf2dd697ca5)
+
+### test project link
+https://github.com/Ivex0002/modal-stack-test-project
+
+
 ## Features
 
 - 🎨 **Multiple Presets**: Default, Minimal, and Drawer layouts
