@@ -2,7 +2,7 @@
 
 A flexible and customizable modal stack management library for React applications. Modal Stack allows you to create layered modals with smooth animations and various preset styles.
 
-## preview
+## Preview
 
 ### default preset
 
@@ -14,7 +14,7 @@ A flexible and customizable modal stack management library for React application
 
 ### test project link
 
-https://github.com/Ivex0002/@ivex0002/stack-modal-test-project
+https://github.com/Ivex0002/stack-modal-test-project
 
 ## Features
 
@@ -25,7 +25,7 @@ https://github.com/Ivex0002/@ivex0002/stack-modal-test-project
 - 🪶 **Lightweight**: Minimal dependencies
 - 💪 **TypeScript**: Full type safety
 - 🔄 **React 18 Compatible**: Built with useSyncExternalStore
-- 🎯 **Zero Dependencies**: Core package has no dependencies
+- 🎯 **Zero runtime dependencies** (React as peer dependency)
 
 ## Installation
 
